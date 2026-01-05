@@ -29,4 +29,8 @@ Say Command;
 </pre>
 
 Video;
+<details>
+<pre>
 https://www.youtube.com/watch?v=AYmYqwff9Ss
+</color>
+</pre>
