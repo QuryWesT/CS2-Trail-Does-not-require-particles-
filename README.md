@@ -25,8 +25,8 @@ Say Command;
 !trail <color|off>
 !trail off   // Disables the trail
 !trail       // Displays the available colors
-</color>
 </pre>
+</details>
 
 Video;
 <details>
