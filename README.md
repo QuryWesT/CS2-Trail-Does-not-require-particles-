@@ -1,6 +1,7 @@
 The purpose of this plugin is to create a trail effect behind the player using specific codes. The best part is that it does not require any effects, particles, or models. It works by using the game’s built-in color codes, providing an FPS-friendly and fun experience. Additionally, you can easily add or remove new colors through the configuration file.
 <details>
 <summary>
+  ```text
 Configs; 
 {
   "Colors": {
