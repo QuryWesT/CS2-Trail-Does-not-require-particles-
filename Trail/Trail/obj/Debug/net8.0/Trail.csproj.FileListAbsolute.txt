@@ -1,0 +1,12 @@
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\bin\Debug\net8.0\Trail.deps.json
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\bin\Debug\net8.0\Trail.dll
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\bin\Debug\net8.0\Trail.pdb
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\obj\Debug\net8.0\Trail.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\obj\Debug\net8.0\Trail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\obj\Debug\net8.0\Trail.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\obj\Debug\net8.0\Trail.AssemblyInfo.cs
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\obj\Debug\net8.0\Trail.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\obj\Debug\net8.0\Trail.dll
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\obj\Debug\net8.0\refint\Trail.dll
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\obj\Debug\net8.0\Trail.pdb
+C:\Users\Can\Desktop\CS2Plugin\Trail\Trail\obj\Debug\net8.0\ref\Trail.dll
