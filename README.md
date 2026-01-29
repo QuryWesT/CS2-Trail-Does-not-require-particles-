@@ -34,7 +34,3 @@ Video;
 https://www.youtube.com/watch?v=AYmYqwff9Ss
 </color>
 </pre>
-
-Model;
-
-https://steamcommunity.com/sharedfiles/filedetails/?id=3655978004
